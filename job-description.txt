@@ -1,0 +1,37 @@
+
+Spacecraft Operations Engineer
+at Spire
+
+You will be at the heart of the organization: commanding and overseeing the daily operations of a growing fleet of nano-satellites.  As a Spacecraft Operations Engineer, you will interface directly with the satellite design team and our software developers to continuously improve our constellation.  You will contact our satellites through our global ground station network and perform all scheduled operations tasks, to include everything from taking pictures in space to calibrating the spacecraft sensors.
+
+Candidates must have experience with the following:
+
+    Working knowledge of Linux
+    Domain knowledge of satellite command and control (orbit dynamics, attitude control principles)
+    Experience writing trouble-tickets and discrepancy reports (working with developers)
+    Worked in a 24/7 support environment
+    Experience with anomaly support and troubleshooting
+
+Strong candidates will also possess skills in one or more of the following areas:
+
+    Experience with a 'big name' command and control software (Epoch, ECLIPSE, etc)
+    Proficiency in at least one programming language (C, Python, Ruby, Bash)
+    Subsystem specialty (Attitude Determination and Control, Payload, Comm, etc)
+    Experience with Github and/or software/ system configuration management
+    Experience working in an ESD-controlled environment
+
+Objectives include:
+
+    Develop comprehensive understanding of our custom software and hardware.  Operate the command and control software in a Unix environment to meet mission objectives for the satellite constellation during all phases of operations, including launch, execution, and re-entry. 
+
+    Maintain knowledge of each satellite in the operations constellation down to the subsystem level.  As a senior operations engineer, mentor and train new operations staff.
+
+    Recognize anomalous conditions on the satellite and ground station network and escalate to the development team when appropriate.  Support anomaly team by contributing to recovery efforts and maintaining thorough documentation.
+
+    Maintain and coordinate the operations coverage calendar with the global operations team to ensure that all satellite contacts are covered (including off-hours and weekend support).  Maintain accurate logs of satellite operations activities and update the knowledge-base with subsystem status changes as appropriate.
+
+    Improve the software repository in GitHub by using strong technical writing skills to suggest features and document bugs.  Participate in the test phase of the software development cycle to preserve stability within the ops baseline.
+
+    Maintain the engineering model for legacy satellites and conduct system testing during satellite integration periods.  Perform configuration management for the engineering model to preserve the test baseline.  Actively engage in the development of documentation to build the company wiki knowledge-base. 
+
+
